@@ -1,7 +1,7 @@
 create database DentalDB;
 use DentalDB;
 
-
+-- Table: Assistans
 CREATE TABLE Assistans (
     id int AUTO_INCREMENT NOT NULL,
     first_name varchar(50)  NOT NULL,
